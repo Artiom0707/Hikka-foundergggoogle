@@ -68,7 +68,7 @@ class LMFIFYMod(loader.Module):
 
         "answer": (
 
-            "<b><emoji document_id=5276167890624585747>👩‍💻</emoji> Let me find it for"
+            "<b><emoji document_id=5276167890624585747>😝</emoji> Look"
 
             " you: </b><a href='{}'>👉click</a>"
 
@@ -88,7 +88,7 @@ class LMFIFYMod(loader.Module):
 
         "answer": (
 
-            "<b><emoji document_id=5276167890624585747>👩‍💻</emoji> Дай-ка я найду:"
+            "<b><emoji document_id=5276167890624585747>😝</emoji> Смотри:"
 
             " </b><a href='{}'>👉click</a>"
 
